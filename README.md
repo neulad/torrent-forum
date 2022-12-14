@@ -21,7 +21,7 @@ I hope you've installed node.js already)
 
 1. Clone the repo
    ```sh
-   git clone https://gitlab.com/backend237/torrent-forum.git
+   git clone git@github.com:neulad/torrent-forum.git
    ```
 3. Install NPM packages
    ```sh
